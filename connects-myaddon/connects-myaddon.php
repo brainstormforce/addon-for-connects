@@ -3,9 +3,9 @@
 * Plugin Name: Connects - MyAddon Addon
 * Plugin URI: 
 * Description: Use this plugin to integrate MyAddon with Connects..
-* Version: 2.0.0
-* Author: Brainstorm Force
-* Author URI: https://www.brainstormforce.com/
+* Version: 1.0
+* Author: Your Name
+* Author URI: https://www.example.com/
 * License:
 */
 
